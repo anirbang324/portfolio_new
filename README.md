@@ -432,8 +432,7 @@ export const educationData = [
     <table>
         <tr>
             <td align="center"><a href="" width="135px;" height="135px;" alt=""/><br /><b>Manas Dey</b></a></td>
-            <td align="center"><a href="" width="135px;" height="135px; alt=""/><br /><b>Anirban Ghoshami</b></a></td>
-            <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
+            <td align="center"><a href="" width="135px;" height="135px; alt=""/><br /><b>Anirban Goswami</b></a></td>
         </tr>
     </table>
 </div>
